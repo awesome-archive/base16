@@ -49,7 +49,6 @@ To add your own template, submit a pull request to https://github.com/chriskemps
 * [QOwnNotes](https://github.com/themix-project/base16-template-qOwnNotes) maintained by [themix-project](https://github.com/themix-project)
 * [Qt Creator](https://github.com/ilpianista/base16-qtcreator) maintained by [ilpianista](https://github.com/ilpianista)
 * [qutebrowser](https://github.com/theova/base16-qutebrowser) maintaned by [theova](https://github.com/theova)
-* [Radare2](https://github.com/jtalowell/base16-radare2) maintained by [jtalowell](https://github.com/jtalowell)
 * [Rofi](https://gitlab.com/0xdec/base16-rofi) maintained by [0xdec](https://gitlab.com/0xdec)
 * [Scide](https://github.com/brunoro/base16-scide) maintained by [brunoro](https://github.com/brunoro)
 * [Shell](https://github.com/chriskempson/base16-shell) maintained by [chriskempson](https://github.com/chriskempson)
@@ -91,6 +90,7 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 * [Fruit Soda](https://github.com/jozip/base16-fruit-soda-scheme) maintained by [jozip](https://github.com/jozip)
 * [Github](https://github.com/Defman21/base16-github-scheme) maintained by [Defman21](https://github.com/Defman21)
 * [Gruvbox](https://github.com/dawikur/base16-gruvbox-scheme) maintained by [dawikur](https://github.com/dawikur)
+* [Hardcore](https://github.com/callerc1/base16-hardcore-scheme) maintained by [callerc1](https://github.com/callerc1)
 * [Helios](https://github.com/reyemxela/base16-helios-scheme) maintained by [reyemxela](https://github.com/reyemxela)
 * [Heetch](https://github.com/tealeg/base16-heetch-scheme) maintained by [tealeg](https://github.com/tealeg)
 * [Horizon](https://github.com/michael-ball/base16-horizon-scheme) maintained by [michael-ball](https://github.com/michael-ball)
@@ -136,6 +136,8 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 
 * [Base 16 Builder Go](https://github.com/belak/base16-builder-go) maintained by [belak](https://github.com/belak)
 * [Base 16 Builder PHP](https://github.com/chriskempson/base16-builder-php) maintained by [chriskempson](https://github.com/chriskempson)
+* [Base 16 Builder Python](https://github.com/InspectorMustache/base16-builder-python) maintained by [InspectorMustache](https://github.com/InspectorMustache)
+* [Base 16 Builder Rust](https://github.com/ilpianista/base16-builder-rust) maintained by [ilpianista](https://github.com/ilpianista)
 
 ### 0.9.0 (Jul 6, 2017)
 
@@ -144,9 +146,7 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 * [Base 16 Builder Ansible](https://github.com/mnussbaum/base16-builder-ansible) maintained by [mnussbaum](https://github.com/mnussbaum)
 * [Base 16 Builder Clojure](https://github.com/nhurden/base16-builder-clojure) maintained by [nhurden](https://github.com/nhurden)
 * [Base 16 Builder Elixir](https://github.com/obahareth/base16-builder-elixir) maintained by [obahareth](https://github.com/obahareth)
-* [Base 16 Builder Python](https://github.com/InspectorMustache/base16-builder-python) maintained by [InspectorMustache](https://github.com/InspectorMustache)
 * [Base 16 Builder Ruby](https://github.com/obahareth/base16-builder-ruby) maintained by [obahareth](https://github.com/obahareth)
-* [Base 16 Builder Rust](https://github.com/ilpianista/base16-builder-rust) maintained by [ilpianista](https://github.com/ilpianista)
 * [Base 16 Builder Typescript](https://github.com/golf1052/base16-builder-typescript) maintained by [golf1052](https://github.com/golf1052)
 
 ### 0.8.1 (Dec 29, 2016)
