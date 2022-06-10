@@ -8,6 +8,8 @@ This repo has been deprecated and has been moved to [this repo](https://github.c
 
 Unfortunately, because no admins of this repo are around any more, we cannot transfer this repo and are limited to a hard fork. Eventually we plan to go through the PRs and issues of the original repos, but that may take a bit of time. If you'd like to expedite the process, please open a new PR or issue against the the new repo and link back to the original.
 
+If you're interested in helping out, please feel free to express your interest [in this issue](https://github.com/base16-project/base16/issues/2).
+
 ## Original Readme
 
 To make the above deprecation notice more visible, the original README has been moved. The previous text is still available and can be [found here](/ORIGINAL-README.md).
